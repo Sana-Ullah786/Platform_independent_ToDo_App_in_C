@@ -2,7 +2,7 @@
 #include <stdlib.h>         // include the stdlib functions
 #include <string.h>         // include the string functions
 #include <stdbool.h>        // include the boolean functions
-#include "fileHandling.h"   // include the file handling functions
+#include "FileHandling.h"   // include the file handling functions
 #include "DataModeling.h"   // include the datamodels
 #include "DataList.h"       // include the data listing functions
 #include "DataValidation.h" // include the data validation functions
